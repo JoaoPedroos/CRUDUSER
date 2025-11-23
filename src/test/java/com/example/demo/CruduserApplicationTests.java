@@ -8,6 +8,7 @@ class CruduserApplicationTests {
 
 	@Test
 	void contextLoads() {
+		
 	}
 
 }
